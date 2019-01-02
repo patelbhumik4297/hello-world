@@ -1,2 +1,5 @@
 # hello-world
-First repository
+
+Hi everyone!
+
+Bhumik here, I'm currently an employee.I like web development.
